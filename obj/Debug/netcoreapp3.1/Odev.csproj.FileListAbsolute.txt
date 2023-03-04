@@ -1,0 +1,14 @@
+C:\Users\islam\Desktop\odev\Odev\obj\Debug\netcoreapp3.1\Odev.csproj.AssemblyReference.cache
+C:\Users\islam\Desktop\odev\Odev\obj\Debug\netcoreapp3.1\Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam\Desktop\odev\Odev\obj\Debug\netcoreapp3.1\Odev.AssemblyInfoInputs.cache
+C:\Users\islam\Desktop\odev\Odev\obj\Debug\netcoreapp3.1\Odev.AssemblyInfo.cs
+C:\Users\islam\Desktop\odev\Odev\obj\Debug\netcoreapp3.1\Odev.csproj.CoreCompileInputs.cache
+C:\Users\islam\Desktop\odev\Odev\bin\Debug\netcoreapp3.1\Odev.exe
+C:\Users\islam\Desktop\odev\Odev\bin\Debug\netcoreapp3.1\Odev.deps.json
+C:\Users\islam\Desktop\odev\Odev\bin\Debug\netcoreapp3.1\Odev.runtimeconfig.json
+C:\Users\islam\Desktop\odev\Odev\bin\Debug\netcoreapp3.1\Odev.runtimeconfig.dev.json
+C:\Users\islam\Desktop\odev\Odev\bin\Debug\netcoreapp3.1\Odev.dll
+C:\Users\islam\Desktop\odev\Odev\bin\Debug\netcoreapp3.1\Odev.pdb
+C:\Users\islam\Desktop\odev\Odev\obj\Debug\netcoreapp3.1\Odev.dll
+C:\Users\islam\Desktop\odev\Odev\obj\Debug\netcoreapp3.1\Odev.pdb
+C:\Users\islam\Desktop\odev\Odev\obj\Debug\netcoreapp3.1\Odev.genruntimeconfig.cache
